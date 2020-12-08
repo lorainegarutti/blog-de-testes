@@ -2,12 +2,12 @@
 
 <p>
   Aqui postarei os artigos que escrevi, separados por temas nas respectivas pastas.
-  <br />
+  <br /><br />
   Caso queira contribuir, é só fazer um fork e mandar seu pull request.
   <br />
-  Todos os conteúdos relacionados a testes são bem vindos, mas gostaria que fosse um apanhado de textos mais teóricos e estratégicos.
+  Todos os conteúdos relacionados a testes são bem vindos, de preferência textos mais teóricos em relação a estratégia de testes.
 </p>
-<br /><br />
+<br />
 
 <h2>Índice</h2>
 
@@ -21,3 +21,4 @@
     Princípios ágeis aplicados na automatização de testes
   </a>
 </p>
+<br />
