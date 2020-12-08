@@ -12,12 +12,12 @@
 <h2>Índice</h2>
 
 <p>
-  <a href="https://github.com/lorainegarutti/blog-de-testes/blob/master/papel-do-qa.md">
+  <a href="https://github.com/lorainegarutti/blog-de-testes/blob/master/agile-testing/papel-do-qa.md">
     Papel do QA em iterações ágeis
   </a>
 </p>
 <p>
-  <a href="https://github.com/lorainegarutti/blog-de-testes/blob/master/principios-ageis-testes.md">
+  <a href="https://github.com/lorainegarutti/blog-de-testes/blob/master/agile-testing/principios-ageis-testes.md">
     Princípios ágeis aplicados na automatização de testes
   </a>
 </p>
