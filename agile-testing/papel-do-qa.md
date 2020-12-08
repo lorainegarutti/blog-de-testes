@@ -1,4 +1,4 @@
-<h1>O papel do QA em iterações ágeis</h1>
+<h1>Papel do QA em iterações ágeis</h1>
 
 <p>
   Segundo Lisa Crispin e Janet Gregory no livro "Agile Testing", desenvolver e testar são duas etapas do mesmo processo de desenvolvimento de software, e a entrega ocorre quando os dois papéis trabalham de forma próxima para contribuir incrementalmente a cada iteração ágil.

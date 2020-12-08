@@ -1,4 +1,4 @@
-<h1>Os princípios ágeis aplicados na automatização de testes</h1>
+<h1>Princípios ágeis aplicados na automatização de testes</h1>
 
 <p>
   Segundo Lisa Crispin e Janet Gregory no livro "Agile Testing", os princípios ágeis de desenvolvimento de software podem guiar também a automatização de testes, personalizando-os da seguinte forma: 
